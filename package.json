@@ -8,10 +8,24 @@
   "dependencies": {
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
-    "express": "~4.16.0",
+    "express": "^4.16.4",
     "hbs": "~4.0.1",
     "http-errors": "~1.6.2",
     "morgan": "~1.9.0",
-    "mysql": "^2.16.0"
-  }
+    "mysql": "^2.16.0",
+    "socket.io": "^2.2.0"
+  },
+  "description": "social media app",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shalabimain/shalabi_m_favethings.git"
+  },
+  "author": "Main Shalabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shalabimain/shalabi_m_favethings/issues"
+  },
+  "homepage": "https://github.com/shalabimain/shalabi_m_favethings#readme"
 }
